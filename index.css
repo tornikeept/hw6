@@ -1,0 +1,21 @@
+/* Question 1 */
+.side-by-side {
+  width: 120px;
+  height: 70px;
+  background-color: black;
+  margin: 10px;
+  display: inline-block;
+}
+
+/* Question 2 */
+.gone {
+  background-color: lightgrey;
+  color: grey;
+  font-size: 30px;
+  width: 100px;
+  visibility:hidden;
+}
+
+.layoutExamplesWrapper > a {
+  display: block;
+}
